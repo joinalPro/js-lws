@@ -17,9 +17,12 @@
 // myName = "Abden";
 // console.log(myName);
 
-let someThing = "some time i went outof my mind."
-console.log(typeof(someThing));
+// let someThing = "some time i went outof my mind."
+// console.log(typeof(someThing));
 
-someThing = 10;
-console.log (typeof(someThing));
+// someThing = 10;
+// console.log (typeof(someThing));
 
+
+let x = 16 + "volvo";
+console.log(x);
