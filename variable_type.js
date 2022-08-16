@@ -15,9 +15,13 @@ console.log(isRomantic);
 // let isRainy = true;
 // console.log(typeof isRainy);
 
-let fNumber = 0.1;
-let sNumber = .2;
-let total = fNumber + sNumber;
-total = total.toFixed(1);
-total = parseFloat(total);
-console.log(total);
+// let fNumber = 0.1;
+// let sNumber = .2;
+// let total = fNumber + sNumber;
+// total = total.toFixed(1);
+// total = parseFloat(total);
+// console.log(total);
+
+let num1 = "99.5";
+let num2 = 15;
+console.log(num1 + num2);
